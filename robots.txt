@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://claceaci.github.io/sitemap
+Sitemap: https://claceaci.github.io/app/sitemap
+Sitemap: https://claceaci.github.io/assets/sitemap
+Sitemap: https://claceaci.github.io/css/sitemap
+Sitemap: https://claceaci.github.io/includes/sitemap
+Sitemap: https://claceaci.github.io/item/sitemap
+Sitemap: https://claceaci.github.io/src/sitemap
